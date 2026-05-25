@@ -1,0 +1,49 @@
+Priya Patel
+priya.patel@protonmail.com | +91-8765432109
+LinkedIn: linkedin.com/in/priyapatel
+
+SUMMARY
+DevOps Engineer with 2 years of hands-on experience in cloud infrastructure, 
+automation, and CI/CD pipeline management. AWS certified professional with 
+strong scripting skills in Python and Bash.
+
+EDUCATION
+B.E. in Computer Science and Engineering
+PES University, Bangalore, 2021
+CGPA: 8.2/10
+
+EXPERIENCE
+DevOps Engineer | InfraOps Technologies | Aug 2021 - Present
+- Managed AWS cloud infrastructure including EC2, S3, RDS, and Lambda
+- Built and maintained CI/CD pipelines using Jenkins, GitHub Actions
+- Containerized applications using Docker and orchestrated with Kubernetes
+- Wrote automation scripts in Python and Bash for deployment workflows
+- Implemented Infrastructure as Code using Terraform and Ansible
+- Configured monitoring using Prometheus and Grafana
+- Managed Linux servers and Nginx web server configurations
+- Reduced deployment time by 60% through pipeline optimization
+
+TECHNICAL SKILLS
+Cloud: AWS (EC2, S3, RDS, Lambda, CloudFormation), Azure basics
+DevOps: Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD
+Scripting: Python, Bash, Shell scripting
+Monitoring: Prometheus, Grafana, CloudWatch
+OS: Linux (Ubuntu, CentOS), Windows Server
+VCS: Git, GitHub, GitLab
+Networking: TCP/IP, DNS, Load Balancing, Nginx
+Databases: MySQL, PostgreSQL, Redis
+Other: Agile, Jira, Confluence, Automation, Cybersecurity basics
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2022)
+- Docker Certified Associate (2023)
+- Linux Foundation Certified System Administrator
+
+PROJECTS
+Automated Deployment Pipeline
+- Built end-to-end CI/CD pipeline for microservices architecture
+- Technologies: Jenkins, Docker, Kubernetes, Terraform
+
+Server Monitoring Dashboard
+- Created real-time monitoring system for 50+ servers
+- Technologies: Python, Prometheus, Grafana

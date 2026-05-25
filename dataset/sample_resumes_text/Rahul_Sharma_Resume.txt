@@ -1,0 +1,49 @@
+Rahul Sharma
+rahul.sharma@gmail.com | +91-9876543210
+Portfolio: rahulsharma.dev
+
+OBJECTIVE
+Aspiring Data Scientist with strong foundation in machine learning, statistics, and data analysis.
+Looking for opportunities to apply analytical skills to solve real-world business problems.
+
+EDUCATION
+B.Tech in Information Technology
+Indian Institute of Technology, 2022
+CGPA: 8.5/10
+
+TECHNICAL SKILLS
+Languages: Python, R, SQL, Java
+ML/AI: Scikit-learn, Pandas, NumPy, Matplotlib, NLP, Machine Learning, Data Science
+Data: MySQL, MongoDB, Tableau, Power BI, Excel, Data Analysis, Data Visualization
+Tools: Git, Jupyter, Google Colab, Linux, Docker
+Concepts: Statistics, Feature Engineering, Deep Learning basics, Natural Language Processing
+
+EXPERIENCE
+Data Science Intern | Analytics Hub Pvt. Ltd. | May 2022 - Nov 2022
+- Built predictive models using Python and Scikit-learn for customer churn prediction
+- Performed exploratory data analysis on datasets with 500K+ records using Pandas
+- Created interactive dashboards using Tableau for business stakeholders
+- Applied NLP techniques for sentiment analysis of customer reviews
+- Improved model accuracy by 15% through feature engineering
+
+Research Assistant | IIT ML Lab | Jan 2022 - Apr 2022
+- Assisted in research on natural language processing applications
+- Implemented text classification models using machine learning
+- Analyzed large text datasets and created data visualization reports
+
+PROJECTS
+Movie Recommendation System | Python, Scikit-learn, Flask
+- Built collaborative filtering based recommendation engine
+- Deployed as web application using Flask
+
+Sentiment Analysis Tool | Python, NLTK, Machine Learning
+- Developed text classification model for tweet sentiment analysis
+- Achieved 87% accuracy using TF-IDF and SVM classifier
+
+Sales Forecasting Dashboard | Python, Pandas, Tableau
+- Created time series forecasting model for retail sales data
+- Built interactive Tableau dashboard for visualization
+
+CERTIFICATIONS
+- Machine Learning Specialization - Andrew Ng (Coursera)
+- Data Science Professional Certificate - IBM

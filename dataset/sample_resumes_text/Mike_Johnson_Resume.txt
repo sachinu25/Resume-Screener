@@ -1,0 +1,42 @@
+Mike Johnson
+mike.j@email.com | (555) 456-7890
+
+ABOUT ME
+Recent Computer Science graduate eager to start career in software development.
+Quick learner with good programming fundamentals and teamwork skills.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Community College of Technology, 2023
+GPA: 3.2/4.0
+
+COURSEWORK
+Data Structures, Algorithms, Database Systems, Web Development, 
+Operating Systems, Computer Networks
+
+SKILLS
+Languages: Python, Java, HTML, CSS, JavaScript
+Databases: MySQL, SQLite
+Tools: Git, VS Code
+Concepts: Object-Oriented Programming, Basic SQL
+
+PROJECTS
+Personal Blog Website | HTML, CSS, JavaScript
+- Created a responsive personal blog using Bootstrap
+- Implemented basic CRUD operations with local storage
+
+Calculator App | Java
+- Built a GUI calculator application using Java Swing
+- Handles basic arithmetic operations
+
+Student Database | Python, SQLite
+- Simple CRUD application for managing student records
+- Used Python with SQLite for data storage
+
+EXTRACURRICULAR
+- Member, Computer Science Club (2021-2023)
+- Volunteer, Code for Kids workshop
+- Hackathon participant - 2022 College Hackfest
+
+REFERENCES
+Available upon request

@@ -1,0 +1,46 @@
+Sarah Chen
+sarah.chen@outlook.com
+(555) 987-6543 | San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 5 years of experience specializing in cloud architecture 
+and backend development. Strong expertise in Python, AWS, and distributed systems. 
+Proven track record of leading engineering teams and delivering high-impact projects.
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University, 2019
+
+Bachelor of Science in Software Engineering
+UC Berkeley, 2017
+
+WORK EXPERIENCE
+Senior Software Engineer | CloudTech Solutions | Mar 2021 - Present
+- Architected microservices infrastructure on AWS serving 2M+ daily users
+- Led team of 5 engineers in redesigning the core API platform
+- Implemented auto-scaling solutions using Kubernetes and Docker
+- Built data pipelines using Python, Apache Spark, and Kafka
+- Established CI/CD workflows with Jenkins and Terraform
+- Mentored 3 junior developers in software engineering best practices
+
+Software Engineer | DataFlow Inc. | Jul 2019 - Feb 2021
+- Developed Python backend services using Django and FastAPI
+- Designed and optimized PostgreSQL database schemas
+- Built RESTful and GraphQL APIs for mobile and web clients
+- Integrated AWS services (S3, Lambda, SQS, DynamoDB) for scalable solutions
+- Implemented automated testing achieving 90% code coverage
+
+Software Engineering Intern | Google | Summer 2018
+- Contributed to internal tooling for code review automation
+- Built a monitoring dashboard using JavaScript and React
+
+TECHNICAL SKILLS
+Languages: Python, Java, Go, JavaScript, TypeScript, SQL, Bash
+Backend: Django, FastAPI, Flask, Spring, Node.js, Express
+Cloud & DevOps: AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, CI/CD
+Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, Elasticsearch
+Big Data: Apache Spark, Hadoop, Kafka
+Other: Microservices, REST, GraphQL, Git, Linux, Agile, Scrum, Leadership, Project Management
+
+PUBLICATIONS
+- "Optimizing Distributed Cache Systems" - IEEE Conference 2021

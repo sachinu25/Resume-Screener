@@ -1,0 +1,22 @@
+Software Engineer - Full Stack Development
+
+We are looking for a skilled Software Engineer to join our development team. The ideal candidate 
+should have strong experience in full-stack web development.
+
+Requirements:
+- 2+ years of experience in software development
+- Proficiency in Python and JavaScript
+- Experience with web frameworks like Django, Flask, or React
+- Knowledge of SQL databases (MySQL, PostgreSQL)
+- Familiarity with Git version control and CI/CD pipelines
+- Understanding of RESTful API design
+- Experience with cloud services (AWS or Azure)
+- Strong problem-solving and communication skills
+
+Nice to have:
+- Experience with Docker and Kubernetes
+- Knowledge of machine learning basics
+- Familiarity with Agile/Scrum methodologies
+- Experience with data analysis using Pandas or NumPy
+
+Education: Bachelor's degree in Computer Science or related field

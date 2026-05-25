@@ -1,0 +1,48 @@
+John Doe
+Email: john.doe@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+SUMMARY
+Full Stack Software Engineer with 3+ years of experience building scalable web applications. 
+Proficient in Python, JavaScript, and cloud technologies. Passionate about clean code and 
+agile development practices.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University, 2020
+GPA: 3.7/4.0
+
+EXPERIENCE
+Software Engineer | TechCorp Inc. | Jan 2021 - Present
+- Developed RESTful APIs using Python Flask and Django frameworks
+- Built responsive front-end interfaces with React and JavaScript
+- Managed MySQL and PostgreSQL databases for production applications
+- Implemented CI/CD pipelines using Jenkins and Docker
+- Collaborated in Agile/Scrum team of 8 developers
+- Reduced API response time by 40% through query optimization
+
+Junior Developer | WebStart Solutions | Jun 2020 - Dec 2020
+- Created web applications using HTML, CSS, JavaScript and Bootstrap
+- Assisted in database design and SQL query writing
+- Participated in code reviews and testing
+- Worked with Git version control for team collaboration
+
+SKILLS
+Programming: Python, JavaScript, Java, SQL, HTML, CSS
+Frameworks: Flask, Django, React, Node.js, Bootstrap
+Databases: MySQL, PostgreSQL, MongoDB
+Tools: Git, Docker, Jenkins, AWS, Linux, Jira
+Other: REST API, Agile, Scrum, Unit Testing, CI/CD
+
+PROJECTS
+E-commerce Platform | Python, Django, PostgreSQL
+- Built a full-stack e-commerce site with payment integration
+- Implemented user authentication and product catalog management
+
+Task Management App | React, Node.js, MongoDB
+- Developed a real-time task tracking application
+- Used WebSockets for live updates between team members
+
+CERTIFICATIONS
+- AWS Cloud Practitioner (2022)
+- Python Professional Certificate - Coursera (2021)
