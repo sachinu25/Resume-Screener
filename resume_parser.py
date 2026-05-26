@@ -52,7 +52,7 @@ def extract_candidate_name(text):
         if not line or len(line) < 2:
             continue
 
-        # Skip lines that are clearly not names
+       
         skip_keywords = [
             'resume', 'curriculum', 'vitae', 'cv', 'objective',
             'summary', 'experience', 'education', '@', 'http',
@@ -62,16 +62,15 @@ def extract_candidate_name(text):
         if any(kw in line.lower() for kw in skip_keywords):
             continue
 
-        # Skip lines with too many digits (phone, dates, addresses)
+        
         digit_ratio = sum(c.isdigit() for c in line) / max(len(line), 1)
         if digit_ratio > 0.2:
             continue
 
-        # Skip long lines (paragraphs)
         if len(line) > 45:
             continue
 
-        # Name should be 1-4 words, mostly alphabetic
+    
         words = line.split()
         if 1 <= len(words) <= 5:
             alpha_ratio = sum(c.isalpha() or c.isspace() for c in line) / max(len(line), 1)
